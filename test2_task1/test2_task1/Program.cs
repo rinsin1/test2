@@ -10,7 +10,7 @@ namespace test2_task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test CI_all");
+            Console.WriteLine("Test CI_all_1");
         }
     }
 }
